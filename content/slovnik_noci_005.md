@@ -3,4 +3,4 @@ title: ''
 contentType: prose
 ---
 
-Věnováno rodičům
+_Věnováno rodičům_
