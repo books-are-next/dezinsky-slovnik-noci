@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Závrať
 contentType: prose
 ---
 
-Závrať
+_Editě_
 
-Editě
+_Jazyk v zavřených ústech  
+mlátí o stěny jak zamčený  
+ve sklepě. Plachost je kočičí páteř._
 
-> Jazyk v zavřených ústech  
-> mlátí o stěny jak zamčený  
-> ve sklepě. Plachost je kočičí páteř.
-
-> Z jednoho bytu  
-> nitka světla tak tenká  
-> jako vlas dívky.  
-> Stříbro. Ona se sprchuje,  
-> po sobě kreslit nechává  
-> měsíční chlad a nenasytnost.
+_Z jednoho bytu  
+nitka světla tak tenká  
+jako vlas dívky.  
+Stříbro. Ona se sprchuje,  
+po sobě kreslit nechává  
+měsíční chlad a nenasytnost._

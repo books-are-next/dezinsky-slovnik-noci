@@ -1,17 +1,15 @@
 ---
-title: ''
+title: Pohled svisle po kmeni břízy
 contentType: prose
 ---
 
-Pohled svisle po kmeni břízy
-
-> Vidlice větví jak za nohy  
-> k vlnitému světlu pověšená žena,  
-> vápenitě bílá kůra. Vrásčitá  
-> a hrubá, s punčochou ok  
-> pod vosím hnízdem, o níž se otřela  
-> černá srst. Ani nadšení nestrhává,  
-> při pohledu vzhůru, do propasti,  
-> kde bezrozměrnost hloubky,  
-> věznící za lebečním švem úlu,  
-> konejší nás drobnými úkony.
+_Vidlice větví jak za nohy  
+k vlnitému světlu pověšená žena,  
+vápenitě bílá kůra. Vrásčitá  
+a hrubá, s punčochou ok  
+pod vosím hnízdem, o níž se otřela  
+černá srst. Ani nadšení nestrhává,  
+při pohledu vzhůru, do propasti,  
+kde bezrozměrnost hloubky,  
+věznící za lebečním švem úlu,  
+konejší nás drobnými úkony._

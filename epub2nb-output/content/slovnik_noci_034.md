@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Měsíc
 contentType: prose
 ---
 
-Měsíc
+_Září; půlnoc.  
+Něco tvrdého jí visí v půli hrdla…  
+Stěny kolem dvora  
+se štiplavým pohlavím._
 
-> Září; půlnoc.  
-> Něco tvrdého jí visí v půli hrdla…  
-> Stěny kolem dvora  
-> se štiplavým pohlavím.
+_Opukový je i měsíc,  
+až po dlouhý stín svého stáří  
+na spící ženě.  
+Jsem tak s ním._
 
-> Opukový je i měsíc,  
-> až po dlouhý stín svého stáří  
-> na spící ženě.  
-> Jsem tak s ním.
-
-> Oknem, tenkým prstem,  
-> vejdi, žháři!
+_Oknem, tenkým prstem,  
+vejdi, žháři!_

@@ -5,11 +5,11 @@ contentType: prose
 
 _Temná noci! Jasná noci!_
 
-Vedle mě, tak blízko u země,  
+_Vedle mě, tak blízko u země,  
 chvěje se bílé tělo,  
-teplý stín.
+teplý stín._
 
-Temná noci! Jasná noci!  
+_Temná noci! Jasná noci!  
 Vezmi mě, daleko od země,  
 kdyby se to smělo,  
-k povětří.
+k povětří._
