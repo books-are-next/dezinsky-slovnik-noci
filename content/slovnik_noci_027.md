@@ -3,6 +3,8 @@ title: Loučení se zemí
 contentType: prose
 ---
 
+<section>
+
 _Smutná krajina s deštěm.  
 Matná, a i bez úleku,  
 který by vzňal otep na zahřátí.  
@@ -17,3 +19,5 @@ se přibližuje k obličeji.
 Pohyb vzhůru narušuje tíhu,  
 napíná se k mozku,  
 ale končí pod pravým kolenem._
+
+</section>

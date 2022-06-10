@@ -3,6 +3,8 @@ title: Aspoň vítr
 contentType: prose
 ---
 
+<section>
+
 _Vždy stíháni nocí,  
 sevřeni její vlhkou kůží,  
 svědící jak pozdní panenství,  
@@ -12,3 +14,5 @@ svým úžasem, a ne prosbou,
 mezi jejich světy,  
 jímž sténá světlo  
 nebo aspoň chladný vítr._
+
+</section>

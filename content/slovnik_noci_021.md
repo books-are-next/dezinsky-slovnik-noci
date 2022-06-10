@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Půvab i nebezpečí svědectví
@@ -17,3 +19,5 @@ ani zvlhčit stearovou mastí,
 a tak to, že je _nad věcí_,  
 rozdírá mu smysly:  
 je viněn z nechuti k požitkářství._
+
+</section>

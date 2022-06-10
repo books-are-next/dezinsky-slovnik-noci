@@ -3,6 +3,8 @@ title: K světlu
 contentType: prose
 ---
 
+<section>
+
 _Blíže k světlu, moci jen,  
 k jiskřící tmě, souhvězdí vlasů,  
 k střešní závrati,  
@@ -17,3 +19,5 @@ protože tam se znovu opakuje,
 hrdla ptáků se mění v koštýře  
 a měchy ryb v syrinx  
 na rozhraní světla tvých žeber._
+
+</section>

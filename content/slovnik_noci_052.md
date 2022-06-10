@@ -3,6 +3,8 @@ title: Dědictví
 contentType: prose
 ---
 
+<section>
+
 _Zdvíhá se vítr,  
 vteřina mezi strnulostí,  
 z níž není odvolání,  
@@ -13,3 +15,5 @@ nad pístem kotle, ventilem Pekla,
 hrozného tajemství,  
 které se dědí jako pamětní prsten  
 nebo houslová struna._
+
+</section>

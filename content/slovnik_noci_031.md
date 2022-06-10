@@ -3,6 +3,8 @@ title: Svítání
 contentType: prose
 ---
 
+<section>
+
 _Pro ženskou váhu nenalézám kámen,  
 který by v dlani netlačil,  
 jako ji tlačí svítání.  
@@ -14,3 +16,5 @@ Za přivřenými dveřmi,
 jako se oko přivírá sluneční slepotou,  
 ve světle cedíš pleť,  
 ohromným sítem prostrčený jazyk._
+
+</section>

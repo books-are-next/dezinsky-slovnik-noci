@@ -3,6 +3,8 @@ title: Kosti
 contentType: prose
 ---
 
+<section>
+
 _Jen sami, tak sami  
 v osamění, doufajíce,  
 tak jak se i had mění v ptáka,  
@@ -17,3 +19,5 @@ pralesní hodiny jejich růstu,
 v nichž skřípající ozvěna  
 brousí kostní hrot, jenž chladem protne  
 blánu srdce, žilkovanou krustu._
+
+</section>

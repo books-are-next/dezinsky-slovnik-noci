@@ -3,6 +3,8 @@ title: Letnice
 contentType: prose
 ---
 
+<section>
+
 _Krajinu,  
 jež ještě před chvílí hořela  
 tvým studem, ochladil  
@@ -19,3 +21,5 @@ zahledí se do dálky,
 ve které vypukne nový požár,  
 teď však z pařenišť  
 nebo od vznícené slámy._
+
+</section>

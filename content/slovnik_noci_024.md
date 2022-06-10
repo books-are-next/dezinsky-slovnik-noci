@@ -3,6 +3,8 @@ title: 'Podzemní vody '
 contentType: prose
 ---
 
+<section>
+
 _(dialog)_
 
 __Chvějivý chlad_, říkáš,  
@@ -15,6 +17,10 @@ kde není nic špatného ani dobrého,
 je jen lhostejné,  
 i bolest, jíž vyje Kleanthovo zvíře._
 
+</section>
+
+<section>
+
 _Vzrušení z chvíle i chvíle vzrušení  
 je mojí slabinou, tenkostěnnou žilkou  
 prýštící z podzemí,  
@@ -22,3 +28,5 @@ prýštící z podzemí,
 lze nalézt ji trpělivým hloubením,  
 _slyšíš_, klokotá v koleni,  
 v ohybu ramenním._
+
+</section>

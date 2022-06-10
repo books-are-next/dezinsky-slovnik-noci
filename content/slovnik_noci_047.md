@@ -3,6 +3,8 @@ title: Lehkost
 contentType: prose
 ---
 
+<section>
+
 _Proměna těla v papírovou tkáň,  
 to když prohání je vítr,  
 ten podmostní, ne varhanový,  
@@ -17,3 +19,5 @@ jak lehkost by mohla dýchat,
 když patří povětří,  
 však na krušec ztvrdlá je  
 a přišlápnutá k místu._
+
+</section>

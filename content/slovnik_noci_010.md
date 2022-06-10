@@ -3,6 +3,8 @@ title: Bez potřeby adjektiva
 contentType: prose
 ---
 
+<section>
+
 _Panenský údiv, že jsou věci,  
 které najednou jdou  
 samy od sebe.  
@@ -18,3 +20,5 @@ která prorostla okamžik
 bez podpory adjektiva,  
 navodila kromě nostalgie  
 i jiné potřeby._
+
+</section>

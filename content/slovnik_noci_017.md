@@ -3,6 +3,8 @@ title: Vlaštovka
 contentType: prose
 ---
 
+<section>
+
 _Viděl jsem v okně tvář mladé dívky,  
 krásnou svou netečností,  
 tím, že svět je jí tak vzdálen  
@@ -17,3 +19,5 @@ aniž by jediný ze štíhlých prstů
 dosáhl na neohoblovanou stěnu,  
 která by znamenala konec i pro vlaštovku,  
 umlácenou v malé místnosti vlastními křídly._
+
+</section>

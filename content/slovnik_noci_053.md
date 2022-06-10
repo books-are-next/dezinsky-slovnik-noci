@@ -3,6 +3,8 @@ title: Časomíra
 contentType: prose
 ---
 
+<section>
+
 _Kraj je časoměrný i mezi kopci,  
 krajina s věšákem, rovina s lampou,  
 náměstí s hodinovou věží,  
@@ -17,3 +19,5 @@ Ospalost roste z černého kořene
 slasti nebo zapomnění,  
 připusť, že samota není víc  
 než klíčový stav univerzální._
+
+</section>

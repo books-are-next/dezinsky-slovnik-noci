@@ -3,6 +3,8 @@ title: Možnost řeči
 contentType: prose
 ---
 
+<section>
+
 _Její chromý úchop příčlí,  
 taktéž provázanost mezi kořeny,  
 že vše má svůj pojem a svůj úsudek,  
@@ -17,3 +19,5 @@ jako když dvě mouchy jednou ráno
 jsou vymknuty v kyčlích  
 pro svůj kopulační konstrukt  
 nad hlavou spáče._
+
+</section>
