@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Jeden z těch večerů,
@@ -16,3 +18,5 @@ tam dole u řeky pod tratí,
 kde opukové zdi mají  
 mezi spárami lístek  
 s tajným přáním._
+
+</section>

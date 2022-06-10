@@ -3,6 +3,8 @@ title: Dutiny kostí
 contentType: prose
 ---
 
+<section>
+
 _Dutiny kostí k snazšímu létání,  
 prázdno podporuje vzlet,  
 v krajině tiché, v poli nebo u lesa,  
@@ -16,3 +18,5 @@ na kraji noci zděděné po otci,
 pod matčiným svíravým svítáním  
 s náčrtníky, slovníky a kružítkem  
 vyměřují, kolik zbývá…_
+
+</section>

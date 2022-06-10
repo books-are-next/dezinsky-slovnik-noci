@@ -3,6 +3,8 @@ title: Hadilov písař
 contentType: prose
 ---
 
+<section>
+
 _Hleď, kde bere se ten vztek,  
 zvednutý živec hořel jasným plemenem,  
 snad pod ním někdo dýchal!  
@@ -17,3 +19,5 @@ vyvede na svět nové, těžké kameny,
 čedič a magnetovec,  
 a možná táhlou, režnou šíř,  
 kde ve zlatě schová se vylekaný lovec!_
+
+</section>

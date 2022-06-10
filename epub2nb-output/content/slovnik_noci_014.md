@@ -3,6 +3,8 @@ title: Okraj světa
 contentType: prose
 ---
 
+<section>
+
 _Není zbytí; upíjí mne mlha,  
 jež se snaží podmaňovat,  
 _neboť poznání vede k domýšlivosti,_  
@@ -17,3 +19,5 @@ přehnout přes jiný okraj —
 vyplivuje krvavý chomáč jazyka  
 odkrývající a zakrývající zuby,  
 bělobu dne, milost soumraku._
+
+</section>

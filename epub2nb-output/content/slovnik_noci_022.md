@@ -3,6 +3,8 @@ title: Přeřeknutí
 contentType: prose
 ---
 
+<section>
+
 _A tak i tělo na černém pozadí  
 měsíčně bílé jak stříbrný střevíc  
 na podlaze rodinné tragédie,  
@@ -16,3 +18,5 @@ než je odhalena, všichni zapomenou
 jako na květinu ve váze,  
 která uvadla bez zjevné příčiny  
 dříve než ostatní._
+
+</section>

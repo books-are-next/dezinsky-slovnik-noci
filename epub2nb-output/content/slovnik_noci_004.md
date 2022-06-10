@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Slovník noci](https://search.mlp.cz/cz/titul/slovnik-noci/2368846/#/getPodobneTituly=deskriptory-eq:23572882-amp:key-eq:2368846) tak, jak bylo vydáno nakladatelstvím Host v Brně v roce 2003. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
@@ -19,4 +21,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 19. 11. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

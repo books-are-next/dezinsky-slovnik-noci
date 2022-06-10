@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Šeptání kamene. Můra,
@@ -14,3 +16,5 @@ tání vosku na zchladnutý prst.
 Pak by na mou hrdelní krajinu  
 přistoupili a jak sníh,  
 jenž zprvu zdál se bílý, roztáli by._
+
+</section>

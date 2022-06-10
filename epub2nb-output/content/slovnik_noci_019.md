@@ -3,6 +3,8 @@ title: "V\_látce nekonečna"
 contentType: prose
 ---
 
+<section>
+
 _Ve skříni mezi šatstvem tak útulno,  
 i s tajemstvím, které dráždí ke kýchání,  
 a s tmou, jež nebýt závrati,  
@@ -17,3 +19,5 @@ i mnohem menších, než mám dnes,
 lze podržet se naftalínových cípů nekonečna,  
 neboť mne učili, že strach mohu mít,  
 ale nikdy nesmím se bát._
+
+</section>

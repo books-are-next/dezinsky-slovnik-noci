@@ -3,6 +3,8 @@ title: Pamětní prsten
 contentType: prose
 ---
 
+<section>
+
 _Krása, jež má vyplňovat prázdno,  
 je těžká vahou svého přísluní  
 a je v ní tolik mužského,  
@@ -17,3 +19,5 @@ Ten pamětní prsten
 se nikdy nestahuje, ne při křtu,  
 ne v křeči, ne před usnutím,  
 ani při zatmění slunce!_
+
+</section>

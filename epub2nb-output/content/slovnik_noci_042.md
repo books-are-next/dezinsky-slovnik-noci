@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Je tolik tepla, že obarvuje kůži,
@@ -16,3 +18,5 @@ jak světlo věčné,
 nabrané z temnoty a chladu,  
 nalézané jen v skalním lomu  
 nebo v kázni cévek mozku._
+
+</section>
