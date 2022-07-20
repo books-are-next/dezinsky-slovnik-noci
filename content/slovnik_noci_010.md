@@ -1,11 +1,11 @@
 ---
 title: Bez potřeby adjektiva
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Panenský údiv, že jsou věci,  
+Panenský údiv, že jsou věci,  
 které najednou jdou  
 samy od sebe.  
 Večer bývá krátký,  
@@ -19,6 +19,6 @@ a koho parodujeme; jako by touha,
 která prorostla okamžik  
 bez podpory adjektiva,  
 navodila kromě nostalgie  
-i jiné potřeby._
+i jiné potřeby.
 
 </section>

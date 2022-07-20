@@ -1,16 +1,16 @@
 ---
 title: Kameni
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kameni,  
+Kameni,  
 pod nímž žloutne tráva,  
 strome, s drsnou kůrou,  
 jako když chlap obejme chlapa,  
 krajina se rozpouští,  
 ale vím, že někam lze dojít  
-i hmatatelnou mlhou._
+i hmatatelnou mlhou.
 
 </section>

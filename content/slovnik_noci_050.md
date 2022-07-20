@@ -1,11 +1,11 @@
 ---
 title: Výraz, který měla vaše žena
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nedovedl jsem zabít mouchu;  
+Nedovedl jsem zabít mouchu;  
 sebestřednost,  
 s jakou na sebe pomrkávají  
 znalci vína,  
@@ -18,6 +18,6 @@ jako když prstem zalovíte
 v anglicko-českém slovníku  
 a nemůžete nalézt výraz,  
 který měla vaše žena  
-ve čtvrt na dvanáct._
+ve čtvrt na dvanáct.
 
 </section>

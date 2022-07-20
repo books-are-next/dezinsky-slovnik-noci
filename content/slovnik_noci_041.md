@@ -1,13 +1,13 @@
 ---
 title: Vášeň pro spánek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Janě_
+Janě
 
-_Pohyb do prázdna  
+Pohyb do prázdna  
 levou rukou, jako by v rameni  
 skrýval se kus křídla.  
 Tenká kůže udivené dívky,  
@@ -18,6 +18,6 @@ Plavaly v něm ryby různých barev,
 které nezažily ani cizí smrt.  
 Když se probouzí,  
 neklid jí prohne páteř,  
-která je po noci velmi flexibilní._
+která je po noci velmi flexibilní.
 
 </section>

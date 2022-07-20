@@ -1,11 +1,11 @@
 ---
 title: Časomíra
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kraj je časoměrný i mezi kopci,  
+Kraj je časoměrný i mezi kopci,  
 krajina s věšákem, rovina s lampou,  
 náměstí s hodinovou věží,  
 snad abychom se nemíjeli,  
@@ -18,6 +18,6 @@ jak křídlo skalní průrvy.
 Ospalost roste z černého kořene  
 slasti nebo zapomnění,  
 připusť, že samota není víc  
-než klíčový stav univerzální._
+než klíčový stav univerzální.
 
 </section>

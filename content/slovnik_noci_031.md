@@ -1,11 +1,11 @@
 ---
 title: Svítání
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pro ženskou váhu nenalézám kámen,  
+Pro ženskou váhu nenalézám kámen,  
 který by v dlani netlačil,  
 jako ji tlačí svítání.  
 Je bolest ukázkou samoty,  
@@ -15,6 +15,6 @@ a vzbudíš se s rozpitým šrámem?
 Za přivřenými dveřmi,  
 jako se oko přivírá sluneční slepotou,  
 ve světle cedíš pleť,  
-ohromným sítem prostrčený jazyk._
+ohromným sítem prostrčený jazyk.
 
 </section>

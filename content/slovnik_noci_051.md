@@ -1,11 +1,11 @@
 ---
 title: Dutiny kostí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Dutiny kostí k snazšímu létání,  
+Dutiny kostí k snazšímu létání,  
 prázdno podporuje vzlet,  
 v krajině tiché, v poli nebo u lesa,  
 potažené jenom sněhem; několik stop,  
@@ -17,6 +17,6 @@ Samotáři v peří svých domovů,
 na kraji noci zděděné po otci,  
 pod matčiným svíravým svítáním  
 s náčrtníky, slovníky a kružítkem  
-vyměřují, kolik zbývá…_
+vyměřují, kolik zbývá…
 
 </section>

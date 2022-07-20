@@ -1,11 +1,11 @@
 ---
 title: Loučení se zemí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Smutná krajina s deštěm.  
+Smutná krajina s deštěm.  
 Matná, a i bez úleku,  
 který by vzňal otep na zahřátí.  
 Milostné zasténání mezi zdmi domů  
@@ -18,6 +18,6 @@ všední gesto ruky
 se přibližuje k obličeji.  
 Pohyb vzhůru narušuje tíhu,  
 napíná se k mozku,  
-ale končí pod pravým kolenem._
+ale končí pod pravým kolenem.
 
 </section>

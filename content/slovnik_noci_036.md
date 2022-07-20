@@ -1,24 +1,24 @@
 ---
 title: Probuzení
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Daniele 6. března 1999_
+Daniele 6. března 1999
 
-_Tvé bílé, houslové tělo  
+Tvé bílé, houslové tělo  
 proti svitu měsíce má v okně  
 ostré okraje.  
 To probudil tě sen  
-nebo něco z minulosti._
+nebo něco z minulosti.
 
 </section>
 
 <section>
 
-_Sedíš na kraji postele  
+Sedíš na kraji postele  
 s nohama spuštěnýma  
-do propasti._
+do propasti.
 
 </section>

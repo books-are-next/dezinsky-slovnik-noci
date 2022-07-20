@@ -1,11 +1,11 @@
 ---
 title: Dědictví
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zdvíhá se vítr,  
+Zdvíhá se vítr,  
 vteřina mezi strnulostí,  
 z níž není odvolání,  
 a náporem vznešenosti.  
@@ -14,6 +14,6 @@ přitiskly malou dívčí ručkou
 nad pístem kotle, ventilem Pekla,  
 hrozného tajemství,  
 které se dědí jako pamětní prsten  
-nebo houslová struna._
+nebo houslová struna.
 
 </section>

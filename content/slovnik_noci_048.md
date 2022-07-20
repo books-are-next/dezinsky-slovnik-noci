@@ -1,11 +1,11 @@
 ---
 title: Kosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jen sami, tak sami  
+Jen sami, tak sami  
 v osamění, doufajíce,  
 tak jak se i had mění v ptáka,  
 chladivý kov šupinaté kůže  
@@ -18,6 +18,6 @@ nepřeroste možnost kostí,
 pralesní hodiny jejich růstu,  
 v nichž skřípající ozvěna  
 brousí kostní hrot, jenž chladem protne  
-blánu srdce, žilkovanou krustu._
+blánu srdce, žilkovanou krustu.
 
 </section>
