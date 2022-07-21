@@ -8,14 +8,10 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dezinsky-slovnik-noci-d597c29",
-  "revision": "d597c29",
+  "identifier": "dezinsky-slovnik-noci-a27d507",
+  "revision": "a27d507",
   "readingOrder": [
     "promo.html",
-    "slovnik_noci_001.html",
-    "slovnik_noci_002.html",
-    "slovnik_noci_003.html",
-    "slovnik_noci_004.html",
     "slovnik_noci_005.html",
     "slovnik_noci_006.html",
     "slovnik_noci_007.html",
@@ -66,11 +62,11 @@
     "slovnik_noci_052.html",
     "slovnik_noci_053.html",
     "slovnik_noci_054.html",
-    "slovnik_noci_055.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:29:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413765028
+    "date": "Thu Jul 21 2022 16:10:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658419822267
   },
   "documents": [
     {
@@ -82,88 +78,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "slovnik_noci_001.html",
-      "toc": []
-    },
-    {
-      "title": "Slovník noci",
-      "file": "slovnik_noci_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "slovnik_noci_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Slovník noci",
-      "file": "slovnik_noci_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "slovnik_noci_001.html",
-      "next": "slovnik_noci_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Slovník noci",
-      "file": "slovnik_noci_003.html",
-      "words": 4,
-      "chars": 26,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 3,
-      "prev": "slovnik_noci_002.html",
-      "next": "slovnik_noci_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Slovník noci",
-      "file": "slovnik_noci_004.html",
-      "words": 100,
-      "chars": 643,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 4,
-      "prev": "slovnik_noci_003.html",
       "next": "slovnik_noci_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Slovník noci",
@@ -172,8 +88,8 @@
       "chars": 16,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
-      "prev": "slovnik_noci_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "slovnik_noci_006.html",
       "toc": [
         {
@@ -192,7 +108,7 @@
       "chars": 146,
       "ideas": 4,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "slovnik_noci_005.html",
       "next": "slovnik_noci_007.html",
       "toc": [
@@ -212,7 +128,7 @@
       "chars": 15,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "slovnik_noci_006.html",
       "next": "slovnik_noci_008.html",
       "toc": [
@@ -232,7 +148,7 @@
       "chars": 238,
       "ideas": 9,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "slovnik_noci_007.html",
       "next": "slovnik_noci_009.html",
       "toc": [
@@ -252,7 +168,7 @@
       "chars": 407,
       "ideas": 15,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "slovnik_noci_008.html",
       "next": "slovnik_noci_010.html",
       "toc": [
@@ -272,7 +188,7 @@
       "chars": 363,
       "ideas": 16,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "slovnik_noci_009.html",
       "next": "slovnik_noci_011.html",
       "toc": [
@@ -292,7 +208,7 @@
       "chars": 306,
       "ideas": 12,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "slovnik_noci_010.html",
       "next": "slovnik_noci_012.html",
       "toc": [
@@ -312,7 +228,7 @@
       "chars": 421,
       "ideas": 15,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "slovnik_noci_011.html",
       "next": "slovnik_noci_013.html",
       "toc": [
@@ -332,7 +248,7 @@
       "chars": 313,
       "ideas": 11,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "slovnik_noci_012.html",
       "next": "slovnik_noci_014.html",
       "toc": [
@@ -352,7 +268,7 @@
       "chars": 412,
       "ideas": 15,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "slovnik_noci_013.html",
       "next": "slovnik_noci_015.html",
       "toc": [
@@ -372,7 +288,7 @@
       "chars": 22,
       "ideas": 1,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "slovnik_noci_014.html",
       "next": "slovnik_noci_016.html",
       "toc": [
@@ -392,7 +308,7 @@
       "chars": 230,
       "ideas": 10,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "slovnik_noci_015.html",
       "next": "slovnik_noci_017.html",
       "toc": [
@@ -412,7 +328,7 @@
       "chars": 444,
       "ideas": 15,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "slovnik_noci_016.html",
       "next": "slovnik_noci_018.html",
       "toc": [
@@ -432,7 +348,7 @@
       "chars": 327,
       "ideas": 13,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "slovnik_noci_017.html",
       "next": "slovnik_noci_019.html",
       "toc": [
@@ -452,7 +368,7 @@
       "chars": 484,
       "ideas": 15,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "slovnik_noci_018.html",
       "next": "slovnik_noci_020.html",
       "toc": [
@@ -472,7 +388,7 @@
       "chars": 537,
       "ideas": 17,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "slovnik_noci_019.html",
       "next": "slovnik_noci_021.html",
       "toc": [
@@ -492,7 +408,7 @@
       "chars": 285,
       "ideas": 12,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "slovnik_noci_020.html",
       "next": "slovnik_noci_022.html",
       "toc": [
@@ -512,7 +428,7 @@
       "chars": 349,
       "ideas": 14,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "slovnik_noci_021.html",
       "next": "slovnik_noci_023.html",
       "toc": [
@@ -532,7 +448,7 @@
       "chars": 318,
       "ideas": 11,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "slovnik_noci_022.html",
       "next": "slovnik_noci_024.html",
       "toc": [
@@ -552,7 +468,7 @@
       "chars": 476,
       "ideas": 18,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "slovnik_noci_023.html",
       "next": "slovnik_noci_025.html",
       "toc": [
@@ -572,7 +488,7 @@
       "chars": 275,
       "ideas": 11,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "slovnik_noci_024.html",
       "next": "slovnik_noci_026.html",
       "toc": [
@@ -592,7 +508,7 @@
       "chars": 184,
       "ideas": 8,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "slovnik_noci_025.html",
       "next": "slovnik_noci_027.html",
       "toc": [
@@ -612,7 +528,7 @@
       "chars": 396,
       "ideas": 15,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "slovnik_noci_026.html",
       "next": "slovnik_noci_028.html",
       "toc": [
@@ -632,7 +548,7 @@
       "chars": 364,
       "ideas": 17,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "slovnik_noci_027.html",
       "next": "slovnik_noci_029.html",
       "toc": [
@@ -652,7 +568,7 @@
       "chars": 223,
       "ideas": 11,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "slovnik_noci_028.html",
       "next": "slovnik_noci_030.html",
       "toc": [
@@ -672,7 +588,7 @@
       "chars": 23,
       "ideas": 1,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "slovnik_noci_029.html",
       "next": "slovnik_noci_031.html",
       "toc": [
@@ -692,7 +608,7 @@
       "chars": 329,
       "ideas": 12,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "slovnik_noci_030.html",
       "next": "slovnik_noci_032.html",
       "toc": [
@@ -712,7 +628,7 @@
       "chars": 359,
       "ideas": 14,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "slovnik_noci_031.html",
       "next": "slovnik_noci_033.html",
       "toc": [
@@ -732,7 +648,7 @@
       "chars": 224,
       "ideas": 11,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "slovnik_noci_032.html",
       "next": "slovnik_noci_034.html",
       "toc": [
@@ -752,7 +668,7 @@
       "chars": 202,
       "ideas": 11,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "slovnik_noci_033.html",
       "next": "slovnik_noci_035.html",
       "toc": [
@@ -772,7 +688,7 @@
       "chars": 381,
       "ideas": 15,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "slovnik_noci_034.html",
       "next": "slovnik_noci_036.html",
       "toc": [
@@ -792,7 +708,7 @@
       "chars": 188,
       "ideas": 10,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "slovnik_noci_035.html",
       "next": "slovnik_noci_037.html",
       "toc": [
@@ -812,7 +728,7 @@
       "chars": 242,
       "ideas": 10,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "slovnik_noci_036.html",
       "next": "slovnik_noci_038.html",
       "toc": [
@@ -832,7 +748,7 @@
       "chars": 261,
       "ideas": 10,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "slovnik_noci_037.html",
       "next": "slovnik_noci_039.html",
       "toc": [
@@ -852,7 +768,7 @@
       "chars": 299,
       "ideas": 13,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "slovnik_noci_038.html",
       "next": "slovnik_noci_040.html",
       "toc": [
@@ -872,7 +788,7 @@
       "chars": 303,
       "ideas": 11,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "slovnik_noci_039.html",
       "next": "slovnik_noci_041.html",
       "toc": [
@@ -892,7 +808,7 @@
       "chars": 313,
       "ideas": 14,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "slovnik_noci_040.html",
       "next": "slovnik_noci_042.html",
       "toc": [
@@ -912,7 +828,7 @@
       "chars": 300,
       "ideas": 11,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "slovnik_noci_041.html",
       "next": "slovnik_noci_043.html",
       "toc": [
@@ -932,7 +848,7 @@
       "chars": 378,
       "ideas": 15,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "slovnik_noci_042.html",
       "next": "slovnik_noci_044.html",
       "toc": [
@@ -952,7 +868,7 @@
       "chars": 23,
       "ideas": 1,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "slovnik_noci_043.html",
       "next": "slovnik_noci_045.html",
       "toc": [
@@ -972,7 +888,7 @@
       "chars": 158,
       "ideas": 8,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "slovnik_noci_044.html",
       "next": "slovnik_noci_046.html",
       "toc": [
@@ -992,7 +908,7 @@
       "chars": 242,
       "ideas": 12,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "slovnik_noci_045.html",
       "next": "slovnik_noci_047.html",
       "toc": [
@@ -1012,7 +928,7 @@
       "chars": 386,
       "ideas": 15,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "slovnik_noci_046.html",
       "next": "slovnik_noci_048.html",
       "toc": [
@@ -1032,7 +948,7 @@
       "chars": 424,
       "ideas": 15,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "slovnik_noci_047.html",
       "next": "slovnik_noci_049.html",
       "toc": [
@@ -1052,7 +968,7 @@
       "chars": 157,
       "ideas": 8,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "slovnik_noci_048.html",
       "next": "slovnik_noci_050.html",
       "toc": [
@@ -1072,7 +988,7 @@
       "chars": 339,
       "ideas": 15,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "slovnik_noci_049.html",
       "next": "slovnik_noci_051.html",
       "toc": [
@@ -1092,7 +1008,7 @@
       "chars": 389,
       "ideas": 14,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "slovnik_noci_050.html",
       "next": "slovnik_noci_052.html",
       "toc": [
@@ -1112,7 +1028,7 @@
       "chars": 246,
       "ideas": 11,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "slovnik_noci_051.html",
       "next": "slovnik_noci_053.html",
       "toc": [
@@ -1132,7 +1048,7 @@
       "chars": 420,
       "ideas": 15,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "slovnik_noci_052.html",
       "next": "slovnik_noci_054.html",
       "toc": [
@@ -1152,9 +1068,9 @@
       "chars": 214,
       "ideas": 12,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "slovnik_noci_053.html",
-      "next": "slovnik_noci_055.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1166,20 +1082,20 @@
       ]
     },
     {
-      "title": "Slovník noci",
-      "file": "slovnik_noci_055.html",
-      "words": 46,
-      "chars": 298,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 55,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 142,
+      "chars": 908,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
       "prev": "slovnik_noci_054.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1188,14 +1104,14 @@
   ],
   "totals": {
     "all": {
-      "words": 2620,
-      "chars": 15358,
-      "ideas": 601
+      "words": 2609,
+      "chars": 15294,
+      "ideas": 593
     },
     "chapters": {
-      "words": 2613,
-      "chars": 15318,
-      "ideas": 596
+      "words": 2461,
+      "chars": 14351,
+      "ideas": 571
     }
   }
 }
