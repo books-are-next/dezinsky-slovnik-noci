@@ -1,11 +1,11 @@
 ---
 title: "V\_látce nekonečna"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ve skříni mezi šatstvem tak útulno,  
+Ve skříni mezi šatstvem tak útulno,  
 i s tajemstvím, které dráždí ke kýchání,  
 a s tmou, jež nebýt závrati,  
 dávala by pocítit tísnivou tíhu nebytí,  
@@ -18,6 +18,6 @@ Protože v sevřených dlaních,
 i mnohem menších, než mám dnes,  
 lze podržet se naftalínových cípů nekonečna,  
 neboť mne učili, že strach mohu mít,  
-ale nikdy nesmím se bát._
+ale nikdy nesmím se bát.
 
 </section>

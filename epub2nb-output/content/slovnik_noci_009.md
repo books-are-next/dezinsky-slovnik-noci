@@ -1,11 +1,11 @@
 ---
 title: Možnost řeči
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Její chromý úchop příčlí,  
+Její chromý úchop příčlí,  
 taktéž provázanost mezi kořeny,  
 že vše má svůj pojem a svůj úsudek,  
 ale ne blýskavé vyjasnění:  
@@ -18,6 +18,6 @@ aby nanovo byl porušen a tlačen,
 jako když dvě mouchy jednou ráno  
 jsou vymknuty v kyčlích  
 pro svůj kopulační konstrukt  
-nad hlavou spáče._
+nad hlavou spáče.
 
 </section>

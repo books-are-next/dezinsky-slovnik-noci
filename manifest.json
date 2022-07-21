@@ -1,0 +1,1201 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Slovník noci",
+  "author": "Milan Děžinský",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dezinsky-slovnik-noci-d597c29",
+  "revision": "d597c29",
+  "readingOrder": [
+    "promo.html",
+    "slovnik_noci_001.html",
+    "slovnik_noci_002.html",
+    "slovnik_noci_003.html",
+    "slovnik_noci_004.html",
+    "slovnik_noci_005.html",
+    "slovnik_noci_006.html",
+    "slovnik_noci_007.html",
+    "slovnik_noci_008.html",
+    "slovnik_noci_009.html",
+    "slovnik_noci_010.html",
+    "slovnik_noci_011.html",
+    "slovnik_noci_012.html",
+    "slovnik_noci_013.html",
+    "slovnik_noci_014.html",
+    "slovnik_noci_015.html",
+    "slovnik_noci_016.html",
+    "slovnik_noci_017.html",
+    "slovnik_noci_018.html",
+    "slovnik_noci_019.html",
+    "slovnik_noci_020.html",
+    "slovnik_noci_021.html",
+    "slovnik_noci_022.html",
+    "slovnik_noci_023.html",
+    "slovnik_noci_024.html",
+    "slovnik_noci_025.html",
+    "slovnik_noci_026.html",
+    "slovnik_noci_027.html",
+    "slovnik_noci_028.html",
+    "slovnik_noci_029.html",
+    "slovnik_noci_030.html",
+    "slovnik_noci_031.html",
+    "slovnik_noci_032.html",
+    "slovnik_noci_033.html",
+    "slovnik_noci_034.html",
+    "slovnik_noci_035.html",
+    "slovnik_noci_036.html",
+    "slovnik_noci_037.html",
+    "slovnik_noci_038.html",
+    "slovnik_noci_039.html",
+    "slovnik_noci_040.html",
+    "slovnik_noci_041.html",
+    "slovnik_noci_042.html",
+    "slovnik_noci_043.html",
+    "slovnik_noci_044.html",
+    "slovnik_noci_045.html",
+    "slovnik_noci_046.html",
+    "slovnik_noci_047.html",
+    "slovnik_noci_048.html",
+    "slovnik_noci_049.html",
+    "slovnik_noci_050.html",
+    "slovnik_noci_051.html",
+    "slovnik_noci_052.html",
+    "slovnik_noci_053.html",
+    "slovnik_noci_054.html",
+    "slovnik_noci_055.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 21 2022 14:29:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658413765028
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "slovnik_noci_001.html",
+      "toc": []
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "slovnik_noci_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "slovnik_noci_001.html",
+      "next": "slovnik_noci_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_003.html",
+      "words": 4,
+      "chars": 26,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "slovnik_noci_002.html",
+      "next": "slovnik_noci_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_004.html",
+      "words": 100,
+      "chars": 643,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 4,
+      "prev": "slovnik_noci_003.html",
+      "next": "slovnik_noci_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_005.html",
+      "words": 2,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "slovnik_noci_004.html",
+      "next": "slovnik_noci_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_006.html",
+      "words": 25,
+      "chars": 146,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 6,
+      "prev": "slovnik_noci_005.html",
+      "next": "slovnik_noci_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I MOŽNOSTI ŘEČI",
+      "file": "slovnik_noci_007.html",
+      "words": 3,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "slovnik_noci_006.html",
+      "next": "slovnik_noci_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I MOŽNOSTI ŘEČI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "slovnik_noci_008.html",
+      "words": 44,
+      "chars": 238,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 8,
+      "prev": "slovnik_noci_007.html",
+      "next": "slovnik_noci_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Možnost řeči",
+      "file": "slovnik_noci_009.html",
+      "words": 68,
+      "chars": 407,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "slovnik_noci_008.html",
+      "next": "slovnik_noci_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Možnost řeči",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bez potřeby adjektiva",
+      "file": "slovnik_noci_010.html",
+      "words": 60,
+      "chars": 363,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 10,
+      "prev": "slovnik_noci_009.html",
+      "next": "slovnik_noci_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bez potřeby adjektiva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Protiřeč",
+      "file": "slovnik_noci_011.html",
+      "words": 54,
+      "chars": 306,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 11,
+      "prev": "slovnik_noci_010.html",
+      "next": "slovnik_noci_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Protiřeč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hadilov písař",
+      "file": "slovnik_noci_012.html",
+      "words": 71,
+      "chars": 421,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 12,
+      "prev": "slovnik_noci_011.html",
+      "next": "slovnik_noci_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hadilov písař",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proporce",
+      "file": "slovnik_noci_013.html",
+      "words": 50,
+      "chars": 313,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "slovnik_noci_012.html",
+      "next": "slovnik_noci_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proporce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Okraj světa",
+      "file": "slovnik_noci_014.html",
+      "words": 65,
+      "chars": 412,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 14,
+      "prev": "slovnik_noci_013.html",
+      "next": "slovnik_noci_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Okraj světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II SHÁŇKA PO ZÁZRACÍCH",
+      "file": "slovnik_noci_015.html",
+      "words": 4,
+      "chars": 22,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "slovnik_noci_014.html",
+      "next": "slovnik_noci_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II SHÁŇKA PO ZÁZRACÍCH",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Aspoň vítr",
+      "file": "slovnik_noci_016.html",
+      "words": 39,
+      "chars": 230,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 16,
+      "prev": "slovnik_noci_015.html",
+      "next": "slovnik_noci_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Aspoň vítr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlaštovka",
+      "file": "slovnik_noci_017.html",
+      "words": 73,
+      "chars": 444,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 17,
+      "prev": "slovnik_noci_016.html",
+      "next": "slovnik_noci_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlaštovka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fotografie podzimního dne",
+      "file": "slovnik_noci_018.html",
+      "words": 51,
+      "chars": 327,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 18,
+      "prev": "slovnik_noci_017.html",
+      "next": "slovnik_noci_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fotografie podzimního dne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V látce nekonečna",
+      "file": "slovnik_noci_019.html",
+      "words": 85,
+      "chars": 484,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 19,
+      "prev": "slovnik_noci_018.html",
+      "next": "slovnik_noci_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V látce nekonečna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sklad konfekce",
+      "file": "slovnik_noci_020.html",
+      "words": 96,
+      "chars": 537,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 20,
+      "prev": "slovnik_noci_019.html",
+      "next": "slovnik_noci_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sklad konfekce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "slovnik_noci_021.html",
+      "words": 50,
+      "chars": 285,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 21,
+      "prev": "slovnik_noci_020.html",
+      "next": "slovnik_noci_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přeřeknutí",
+      "file": "slovnik_noci_022.html",
+      "words": 58,
+      "chars": 349,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 22,
+      "prev": "slovnik_noci_021.html",
+      "next": "slovnik_noci_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přeřeknutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohled svisle po kmeni břízy",
+      "file": "slovnik_noci_023.html",
+      "words": 53,
+      "chars": 318,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "slovnik_noci_022.html",
+      "next": "slovnik_noci_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohled svisle po kmeni břízy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Podzemní vody",
+      "file": "slovnik_noci_024.html",
+      "words": 74,
+      "chars": 476,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 24,
+      "prev": "slovnik_noci_023.html",
+      "next": "slovnik_noci_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Podzemní vody",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pod souhvězdím vah",
+      "file": "slovnik_noci_025.html",
+      "words": 50,
+      "chars": 275,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 25,
+      "prev": "slovnik_noci_024.html",
+      "next": "slovnik_noci_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pod souhvězdím vah",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pařez plný vody",
+      "file": "slovnik_noci_026.html",
+      "words": 30,
+      "chars": 184,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 26,
+      "prev": "slovnik_noci_025.html",
+      "next": "slovnik_noci_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pařez plný vody",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Loučení se zemí",
+      "file": "slovnik_noci_027.html",
+      "words": 70,
+      "chars": 396,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 27,
+      "prev": "slovnik_noci_026.html",
+      "next": "slovnik_noci_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Loučení se zemí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Letnice",
+      "file": "slovnik_noci_028.html",
+      "words": 58,
+      "chars": 364,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 28,
+      "prev": "slovnik_noci_027.html",
+      "next": "slovnik_noci_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Letnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "slovnik_noci_029.html",
+      "words": 44,
+      "chars": 223,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 29,
+      "prev": "slovnik_noci_028.html",
+      "next": "slovnik_noci_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III TO NEJDIVNĚJŠÍ MOŘE",
+      "file": "slovnik_noci_030.html",
+      "words": 4,
+      "chars": 23,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 30,
+      "prev": "slovnik_noci_029.html",
+      "next": "slovnik_noci_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III TO NEJDIVNĚJŠÍ MOŘE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svítání",
+      "file": "slovnik_noci_031.html",
+      "words": 56,
+      "chars": 329,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 31,
+      "prev": "slovnik_noci_030.html",
+      "next": "slovnik_noci_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svítání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ofélie",
+      "file": "slovnik_noci_032.html",
+      "words": 63,
+      "chars": 359,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 32,
+      "prev": "slovnik_noci_031.html",
+      "next": "slovnik_noci_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ofélie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závrať",
+      "file": "slovnik_noci_033.html",
+      "words": 39,
+      "chars": 224,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 33,
+      "prev": "slovnik_noci_032.html",
+      "next": "slovnik_noci_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Závrať",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíc",
+      "file": "slovnik_noci_034.html",
+      "words": 38,
+      "chars": 202,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 34,
+      "prev": "slovnik_noci_033.html",
+      "next": "slovnik_noci_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Měsíc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pamětní prsten",
+      "file": "slovnik_noci_035.html",
+      "words": 65,
+      "chars": 381,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 35,
+      "prev": "slovnik_noci_034.html",
+      "next": "slovnik_noci_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pamětní prsten",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Probuzení",
+      "file": "slovnik_noci_036.html",
+      "words": 34,
+      "chars": 188,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 36,
+      "prev": "slovnik_noci_035.html",
+      "next": "slovnik_noci_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Probuzení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uprostřed noci na lůžku",
+      "file": "slovnik_noci_037.html",
+      "words": 38,
+      "chars": 242,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 37,
+      "prev": "slovnik_noci_036.html",
+      "next": "slovnik_noci_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uprostřed noci na lůžku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Markowitzova komora",
+      "file": "slovnik_noci_038.html",
+      "words": 44,
+      "chars": 261,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 38,
+      "prev": "slovnik_noci_037.html",
+      "next": "slovnik_noci_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Markowitzova komora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "slovnik_noci_039.html",
+      "words": 52,
+      "chars": 299,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "slovnik_noci_038.html",
+      "next": "slovnik_noci_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Australská",
+      "file": "slovnik_noci_040.html",
+      "words": 56,
+      "chars": 303,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 40,
+      "prev": "slovnik_noci_039.html",
+      "next": "slovnik_noci_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Australská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vášeň pro spánek",
+      "file": "slovnik_noci_041.html",
+      "words": 57,
+      "chars": 313,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 41,
+      "prev": "slovnik_noci_040.html",
+      "next": "slovnik_noci_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vášeň pro spánek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "slovnik_noci_042.html",
+      "words": 53,
+      "chars": 300,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 42,
+      "prev": "slovnik_noci_041.html",
+      "next": "slovnik_noci_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K světlu",
+      "file": "slovnik_noci_043.html",
+      "words": 68,
+      "chars": 378,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 43,
+      "prev": "slovnik_noci_042.html",
+      "next": "slovnik_noci_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K světlu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV NÁVRAT BEZ DOPROVODU",
+      "file": "slovnik_noci_044.html",
+      "words": 4,
+      "chars": 23,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 44,
+      "prev": "slovnik_noci_043.html",
+      "next": "slovnik_noci_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV NÁVRAT BEZ DOPROVODU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_045.html",
+      "words": 31,
+      "chars": 158,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 45,
+      "prev": "slovnik_noci_044.html",
+      "next": "slovnik_noci_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tma",
+      "file": "slovnik_noci_046.html",
+      "words": 45,
+      "chars": 242,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 46,
+      "prev": "slovnik_noci_045.html",
+      "next": "slovnik_noci_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lehkost",
+      "file": "slovnik_noci_047.html",
+      "words": 67,
+      "chars": 386,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 47,
+      "prev": "slovnik_noci_046.html",
+      "next": "slovnik_noci_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lehkost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kosti",
+      "file": "slovnik_noci_048.html",
+      "words": 72,
+      "chars": 424,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 48,
+      "prev": "slovnik_noci_047.html",
+      "next": "slovnik_noci_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kameni",
+      "file": "slovnik_noci_049.html",
+      "words": 27,
+      "chars": 157,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 49,
+      "prev": "slovnik_noci_048.html",
+      "next": "slovnik_noci_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kameni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výraz, který měla vaše žena",
+      "file": "slovnik_noci_050.html",
+      "words": 57,
+      "chars": 339,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 50,
+      "prev": "slovnik_noci_049.html",
+      "next": "slovnik_noci_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výraz, který měla vaše žena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dutiny kostí",
+      "file": "slovnik_noci_051.html",
+      "words": 65,
+      "chars": 389,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 51,
+      "prev": "slovnik_noci_050.html",
+      "next": "slovnik_noci_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dutiny kostí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dědictví",
+      "file": "slovnik_noci_052.html",
+      "words": 39,
+      "chars": 246,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 52,
+      "prev": "slovnik_noci_051.html",
+      "next": "slovnik_noci_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dědictví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Časomíra",
+      "file": "slovnik_noci_053.html",
+      "words": 71,
+      "chars": 420,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 53,
+      "prev": "slovnik_noci_052.html",
+      "next": "slovnik_noci_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Časomíra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samota",
+      "file": "slovnik_noci_054.html",
+      "words": 39,
+      "chars": 214,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 54,
+      "prev": "slovnik_noci_053.html",
+      "next": "slovnik_noci_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovník noci",
+      "file": "slovnik_noci_055.html",
+      "words": 46,
+      "chars": 298,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 55,
+      "prev": "slovnik_noci_054.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2620,
+      "chars": 15358,
+      "ideas": 601
+    },
+    "chapters": {
+      "words": 2613,
+      "chars": 15318,
+      "ideas": 596
+    }
+  }
+}

@@ -1,11 +1,11 @@
 ---
 title: Fotografie podzimního dne
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na stěně šmouhovatá stopa,  
+Na stěně šmouhovatá stopa,  
 kterou zanechal jeden komáří život,  
 hrdost, jakou má vítr  
 v duté kuřecí kosti,  
@@ -16,6 +16,6 @@ s jakou určujeme podstatné
 a nepodstatné. Špona,  
 která se zachytila v tracheji,  
 zaseknutá jako odhodlanost,  
-s níž děvče flirtuje se zralým mužem._
+s níž děvče flirtuje se zralým mužem.
 
 </section>

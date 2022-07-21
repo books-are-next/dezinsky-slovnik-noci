@@ -1,11 +1,11 @@
 ---
 title: Letnice
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Krajinu,  
+Krajinu,  
 jež ještě před chvílí hořela  
 tvým studem, ochladil  
 červnový déšť.  
@@ -20,6 +20,6 @@ přes láhev červeného
 zahledí se do dálky,  
 ve které vypukne nový požár,  
 teď však z pařenišť  
-nebo od vznícené slámy._
+nebo od vznícené slámy.
 
 </section>

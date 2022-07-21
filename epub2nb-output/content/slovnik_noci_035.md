@@ -1,11 +1,11 @@
 ---
 title: Pamětní prsten
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Krása, jež má vyplňovat prázdno,  
+Krása, jež má vyplňovat prázdno,  
 je těžká vahou svého přísluní  
 a je v ní tolik mužského,  
 a kresba zoufalství, již Ďábel  
@@ -18,6 +18,6 @@ obepínajícím opuchlý prst.
 Ten pamětní prsten  
 se nikdy nestahuje, ne při křtu,  
 ne v křeči, ne před usnutím,  
-ani při zatmění slunce!_
+ani při zatmění slunce!
 
 </section>

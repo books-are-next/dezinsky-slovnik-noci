@@ -1,23 +1,23 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _Temná noci! Jasná noci!_
 
-_Vedle mě, tak blízko u země,  
+Vedle mě, tak blízko u země,  
 chvěje se bílé tělo,  
-teplý stín._
+teplý stín.
 
 </section>
 
 <section>
 
-_Temná noci! Jasná noci!  
+Temná noci! Jasná noci!  
 Vezmi mě, daleko od země,  
 kdyby se to smělo,  
-k povětří._
+k povětří.
 
 </section>

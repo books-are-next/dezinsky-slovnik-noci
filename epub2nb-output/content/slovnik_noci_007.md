@@ -1,6 +1,6 @@
 ---
 title: I MOŽNOSTI ŘEČI
-contentType: prose
+contentType: poetry
 ---
 
 

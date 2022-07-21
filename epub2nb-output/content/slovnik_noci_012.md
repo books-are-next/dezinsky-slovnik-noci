@@ -1,11 +1,11 @@
 ---
 title: Hadilov písař
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Hleď, kde bere se ten vztek,  
+Hleď, kde bere se ten vztek,  
 zvednutý živec hořel jasným plemenem,  
 snad pod ním někdo dýchal!  
 Nejdříve propálený měsícem  
@@ -18,6 +18,6 @@ jak přejedená břicha
 vyvede na svět nové, těžké kameny,  
 čedič a magnetovec,  
 a možná táhlou, režnou šíř,  
-kde ve zlatě schová se vylekaný lovec!_
+kde ve zlatě schová se vylekaný lovec!
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Okraj světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Není zbytí; upíjí mne mlha,  
+Není zbytí; upíjí mne mlha,  
 jež se snaží podmaňovat,  
 _neboť poznání vede k domýšlivosti,_  
 odkryté je lákavější než odhalené  
@@ -18,6 +18,6 @@ mezi provlhlé stěny řeči
 přehnout přes jiný okraj —  
 vyplivuje krvavý chomáč jazyka  
 odkrývající a zakrývající zuby,  
-bělobu dne, milost soumraku._
+bělobu dne, milost soumraku.
 
 </section>

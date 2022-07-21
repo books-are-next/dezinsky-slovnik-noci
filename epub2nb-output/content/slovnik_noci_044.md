@@ -1,6 +1,6 @@
 ---
 title: IV NÁVRAT BEZ DOPROVODU
-contentType: prose
+contentType: poetry
 ---
 
 

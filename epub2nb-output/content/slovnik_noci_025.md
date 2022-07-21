@@ -1,24 +1,24 @@
 ---
 title: Pod souhvězdím vah
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Hrb a nádhernou krajinou  
+Hrb a nádhernou krajinou  
 uklání se pískání ve stromech,  
 jako když si ulovený hmyz  
 vychutnává bolest, aby až do krajnosti  
 vyřízl něco z místa,  
-na kterém jsme stáli._
+na kterém jsme stáli.
 
 </section>
 
 <section>
 
-_A právě teď je noc, co trvá.  
+A právě teď je noc, co trvá.  
 Lítají knoflíky hvězd  
 z chtivě trhané košile.  
-My blanité mušky proti nim._
+My blanité mušky proti nim.
 
 </section>

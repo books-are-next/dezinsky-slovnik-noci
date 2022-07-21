@@ -1,11 +1,11 @@
 ---
 title: Samota
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Určení času  
+Určení času  
 podle stahu kolibřího svalu  
 je úkol filosofie,  
 vítr za oknem skučí  
@@ -15,6 +15,6 @@ ve slovníku noci.
 Jsem najednou mrtev;  
 déšť hoří v pouliční lampě,  
 můj prst je kost  
-se zřetelnými články._
+se zřetelnými články.
 
 </section>

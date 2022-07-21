@@ -1,11 +1,11 @@
 ---
 title: Sklad konfekce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jen napůl úst skrytých v podzimu,  
+Jen napůl úst skrytých v podzimu,  
 tak mluvil, a jeho oči visely  
 někde v prázdnu, ne však daleko.  
 Kalné studánky v pařezech  
@@ -20,6 +20,6 @@ ty oči v prázdnu zavěšeny
 jak na ramínkách ve skladě konfekce!  
 A mladé, útlé ženy jako ty  
 se v nich mohou probírat, aby se vyděsily  
-ve věčnosti intervalu, kdy zkoumaná látka obnaží něčí obličej._
+ve věčnosti intervalu, kdy zkoumaná látka obnaží něčí obličej.
 
 </section>

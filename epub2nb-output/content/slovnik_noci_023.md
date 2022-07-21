@@ -1,11 +1,11 @@
 ---
 title: Pohled svisle po kmeni břízy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vidlice větví jak za nohy  
+Vidlice větví jak za nohy  
 k vlnitému světlu pověšená žena,  
 vápenitě bílá kůra. Vrásčitá  
 a hrubá, s punčochou ok  
@@ -14,6 +14,6 @@ pod vosím hnízdem, o níž se otřela
 při pohledu vzhůru, do propasti,  
 kde bezrozměrnost hloubky,  
 věznící za lebečním švem úlu,  
-konejší nás drobnými úkony._
+konejší nás drobnými úkony.
 
 </section>

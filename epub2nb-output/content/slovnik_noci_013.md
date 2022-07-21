@@ -1,11 +1,11 @@
 ---
 title: Proporce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ten, kdo vykrajuje jádřince,  
+Ten, kdo vykrajuje jádřince,  
 jako by toužil po čistém bytí  
 v zašpiněném a roztrhaném prádle,  
 vyloženém plností.  
@@ -14,6 +14,6 @@ stejně jako přísný výraz
 zamezuje upřímnosti, i když svrbí jazyk  
 jak propalující oheň krevnatostí kmene  
 nebo jak hořlavá zelenavá žilka,  
-která z tenat vede až k srdci._
+která z tenat vede až k srdci.
 
 </section>

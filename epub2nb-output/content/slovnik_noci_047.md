@@ -1,11 +1,11 @@
 ---
 title: Lehkost
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Proměna těla v papírovou tkáň,  
+Proměna těla v papírovou tkáň,  
 to když prohání je vítr,  
 ten podmostní, ne varhanový,  
 ani ten, jenž čeří peří pěnice,  
@@ -18,6 +18,6 @@ Ne, pak se nedýchá,
 jak lehkost by mohla dýchat,  
 když patří povětří,  
 však na krušec ztvrdlá je  
-a přišlápnutá k místu._
+a přišlápnutá k místu.
 
 </section>

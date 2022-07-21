@@ -1,11 +1,11 @@
 ---
 title: Přeřeknutí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_A tak i tělo na černém pozadí  
+A tak i tělo na černém pozadí  
 měsíčně bílé jak stříbrný střevíc  
 na podlaze rodinné tragédie,  
 která se vyplavila  
@@ -17,6 +17,6 @@ ve výpočtu, kterou dřív,
 než je odhalena, všichni zapomenou  
 jako na květinu ve váze,  
 která uvadla bez zjevné příčiny  
-dříve než ostatní._
+dříve než ostatní.
 
 </section>

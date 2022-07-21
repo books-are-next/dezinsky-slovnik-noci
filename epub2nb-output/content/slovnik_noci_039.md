@@ -1,15 +1,13 @@
 ---
-title: ''
-contentType: prose
+title: '* * *'
+contentType: poetry
 ---
 
 <section>
 
-\* \* \*
-
 Každý večer,
 
-_ještě než odběhne do koupelny,  
+ještě než odběhne do koupelny,  
 rozhodí na posteli své krajky,  
 aby mohla destilovat všechnu slast  
 ze své sebelítosti,  
@@ -19,6 +17,6 @@ tím, že byla obdařena citem,
 aby jej jako jehlu  
 obrátila proti své kůži,  
 která ještě na několika místech  
-temní pevným stiskem._
+temní pevným stiskem.
 
 </section>

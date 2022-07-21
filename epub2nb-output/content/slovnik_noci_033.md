@@ -1,25 +1,25 @@
 ---
 title: Závrať
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Editě_
+Editě
 
-_Jazyk v zavřených ústech  
+Jazyk v zavřených ústech  
 mlátí o stěny jak zamčený  
-ve sklepě. Plachost je kočičí páteř._
+ve sklepě. Plachost je kočičí páteř.
 
 </section>
 
 <section>
 
-_Z jednoho bytu  
+Z jednoho bytu  
 nitka světla tak tenká  
 jako vlas dívky.  
 Stříbro. Ona se sprchuje,  
 po sobě kreslit nechává  
-měsíční chlad a nenasytnost._
+měsíční chlad a nenasytnost.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: K světlu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Blíže k světlu, moci jen,  
+Blíže k světlu, moci jen,  
 k jiskřící tmě, souhvězdí vlasů,  
 k střešní závrati,  
 když naplňuje nekonečno,  
@@ -18,6 +18,6 @@ z míst, kde to neznáš,
 protože tam se znovu opakuje,  
 hrdla ptáků se mění v koštýře  
 a měchy ryb v syrinx  
-na rozhraní světla tvých žeber._
+na rozhraní světla tvých žeber.
 
 </section>
