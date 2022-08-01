@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2681-2
 readingOrder:
   - promo.html
   - slovnik_noci_005.html
