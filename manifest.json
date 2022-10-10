@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dezinsky-slovnik-noci-8ab43b0",
-  "revision": "8ab43b0",
+  "identifier": "dezinsky-slovnik-noci-8d77097",
+  "revision": "8d77097",
   "readingOrder": [
     "promo.html",
     "slovnik_noci_005.html",
@@ -65,8 +65,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:52:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150756041
+    "date": "Mon Oct 10 2022 15:45:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416713008
   },
   "documents": [
     {
@@ -1085,7 +1085,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 143,
-      "chars": 945,
+      "chars": 946,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1105,7 +1105,7 @@
   "totals": {
     "all": {
       "words": 2610,
-      "chars": 15331,
+      "chars": 15332,
       "ideas": 591
     },
     "chapters": {
